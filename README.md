@@ -135,4 +135,6 @@ decrypted_2, decrypted_3 = xor_decrypt(ciphertext, key)
 print("Decrypted assuming 2-digit bytes:", decrypted_2)
 print("Decrypted assuming 3-digit bytes:", decrypted_3)
 ```
+----
+----
 
