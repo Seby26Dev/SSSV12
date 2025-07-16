@@ -2,7 +2,7 @@
 
 Am descarcat arhiva si i-am dat unzip.
 
-Am obtinut mai multe fisiere `f, l, a, g` pe care le-am dat `cat` inr-un alt fisier cu extensie `zip` in aceasta ordine.
+Am obtinut mai multe fisiere `f, l, a, g` pe care le-am dat `cat` inr-un alt fisier cu extensie `.zip` in aceasta ordine.
 
 Acest fisier formeaza o arhiva cu mici probleme, motiv pt care am dat comanda 
 ```
